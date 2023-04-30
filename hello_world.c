@@ -4,7 +4,7 @@
 #include "sub_2.h"
 
 int main(void){
-	printf("Hello World \n");
+	printf("Hello World to git \n");
 	sub_routine();
 	sub_routine_2();
 	return 0;
